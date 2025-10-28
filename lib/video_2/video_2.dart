@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
+// this is riverpod toturial for learning
 
 final counterProvider = StateProvider((Ref ref) {
   return 0;
